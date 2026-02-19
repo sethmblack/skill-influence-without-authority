@@ -3,8 +3,9 @@ name: influence-without-authority
 description: Persuade stakeholders, peers, or cross-functional partners to adopt your proposal when you lack direct authority, using Dale Carnegie's principles of genuine interest, letting them own the idea, an...
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4227
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - influence-without-authority
 - structure
